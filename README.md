@@ -26,7 +26,7 @@ Contributions are welcome! If you have ideas for improvements or new features, f
 - *Creator*: [Kamran Ahmad]
 
 # Live Demo
-Check out the live demo of the frontend developer profile card: [kami-profilecard.vercel.app]
+Check out the live demo of the frontend developer profile card: [https://kami-profilecard.vercel.app/]
 
 # License
 This project is licensed under the (link unavailable).
