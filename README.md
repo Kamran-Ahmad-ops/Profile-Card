@@ -1,4 +1,4 @@
-# Frontend Developer Profile Card README
+# Frontend Developer Profile Card
 Overview.
 A beautiful and customizable frontend developer profile card to showcase your skills and experience.
 
